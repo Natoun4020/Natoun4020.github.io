@@ -1,0 +1,41 @@
+h1
+{
+    color: black;
+	font-family: Billgates;
+	font-size: 120pt
+}
+h2
+{
+	color: white;
+	font-family: Impact;
+	font-size: 50pt
+}
+body
+{
+	background-image: url(image.png);
+	background-size: 100%
+}
+#presentation
+{
+	width: 800px;
+	margin:0 auto;
+	text-align: center;
+	align-content: center;
+}
+
+#partie1
+{
+	width: 800px;
+	margin:0 auto;
+	text-align: center;
+	align-content: center;
+}
+
+
+#image
+{
+	width: 800px;
+	margin:0 auto;
+	text-align: center;
+	align-content: center;
+}
